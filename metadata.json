@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Analyzer",
+  "description": "An AI-powered resume analyzer that extracts PDF text, matches it against a job description, and provides comprehensive reports with an ATS score, skill gaps, strengths, and suggestions using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
